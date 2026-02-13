@@ -1,0 +1,27 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/9125aditya/Library-management#readme",
+  "bugs": {
+    "url": "https://github.com/9125aditya/Library-management/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9125aditya/Library-management.git"
+  },
+  "license": "ISC",
+  "author": "aditya singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
