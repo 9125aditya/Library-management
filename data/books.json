@@ -1,0 +1,47 @@
+[
+  {
+    "id": "b1",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "price": 499,
+    "category": "Self-help",
+    "inStock": true,
+    "rating": 4.8
+  },
+  {
+    "id": "b2",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "price": 299,
+    "category": "Fiction",
+    "inStock": true,
+    "rating": 4.5
+  },
+  {
+    "id": "b3",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "price": 799,
+    "category": "Programming",
+    "inStock": false,
+    "rating": 4.9
+  },
+  {
+    "id": "b4",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "price": 450,
+    "category": "Productivity",
+    "inStock": true,
+    "rating": 4.6
+  },
+  {
+    "id": "b5",
+    "title": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "price": 650,
+    "category": "Programming",
+    "inStock": true,
+    "rating": 4.7
+  }
+]

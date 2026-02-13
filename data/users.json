@@ -1,0 +1,26 @@
+[
+  {
+    "id": "u1",
+    "name": "Aditya Singh",
+    "email": "aditya@example.com",
+    "password": "123456",
+    "role": "admin",
+    "joinedAt": "2025-12-01"
+  },
+  {
+    "id": "u2",
+    "name": "Vishal Kumar",
+    "email": "vishal@example.com",
+    "password": "password123",
+    "role": "user",
+    "joinedAt": "2026-01-10"
+  },
+  {
+    "id": "u3",
+    "name": "Rohit Sharma",
+    "email": "rohit@example.com",
+    "password": "rohit@123",
+    "role": "user",
+    "joinedAt": "2026-01-22"
+  }
+]
